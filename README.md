@@ -1,2 +1,0 @@
-# hafsa
-goto meetings
